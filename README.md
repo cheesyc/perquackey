@@ -1,6 +1,6 @@
 # perquackey
 
-Windows:
+#Windows:
 
 1. Install Python. Any version should work
 
@@ -14,7 +14,7 @@ Windows:
 
 6. Rinse and repeat as needed
 
-Linux:
+#Linux:
 
 1. Clone the file into a place you can remember
 
